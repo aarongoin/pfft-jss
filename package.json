@@ -1,7 +1,7 @@
 {
   "name": "pfft-jss",
-  "version": "1.0.0",
-  "description": "pfft-jss is a tiny utility library to help you style you components.",
+  "version": "1.0.1",
+  "description": "pfft-jss is a tiny utility library to help you style your components.",
   "main": "dist/pfft.js",
   "module": "src/index.js",
   "scripts": {

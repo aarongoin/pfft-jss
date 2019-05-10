@@ -2,7 +2,8 @@
   "name": "pfft-jss",
   "version": "1.0.0",
   "description": "pfft-jss is a tiny utility library to help you style you components.",
-  "main": "pfft.js",
+  "main": "dist/pfft.js",
+  "module": "src/index.js",
   "scripts": {
     "test": "jest",
     "build": "webpack"
@@ -20,9 +21,7 @@
     "flow-bin": "^0.82.0",
     "flow-typed": "^2.5.1",
     "jest": "^22.4.3",
-    "uglifyjs-webpack-plugin": "^2.0.1",
     "webpack": "^4.20.2",
-    "webpack-bundle-size-analyzer": "^2.7.0",
     "webpack-cli": "^3.1.2"
   },
   "jest": {

@@ -83,3 +83,11 @@ export default function css(...args) {
 }
 
 ```
+
+# How to Contribute
+
+Open an issue in github, or a pull request. Reach out and poke someone. Let's make it happen. Bloat not welcome.
+
+# License
+
+ISC
